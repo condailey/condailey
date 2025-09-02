@@ -59,7 +59,7 @@ _**Stack**: C#, .NET, Blazor, Claude API_
 ### 🔹 [Shortcut iOS App](https://github.com/afahey03/Shortcut)  
 SwiftUI app for optimized route navigation using MapKit and CoreLocation
 
-### 🔹 [IMDb Data Analysis](https://github.com/condailey/Projects/tree/main)  
+### 🔹 [IMDb Data Analysis](https://github.com/condailey/Projects/tree/main/movieDBproject)  
 Python & SQL scripts for scraping and analyzing IMDb data
 
 ### 🔹 [Automation Tools](https://github.com/condailey/Projects/tree/main/Automations)  
