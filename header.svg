@@ -34,7 +34,7 @@
 
         @keyframes typing {
           from { width: 0 }
-          to { width: 70% }
+          to { width: 85% }
         }
 
         @keyframes blink-caret {
