@@ -2,7 +2,7 @@
   <img src="./header.svg" alt="Hi, I'm Connor Dailey -- DevOps Engineer" />
 </p>
 
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) , my name is Connor Dailey
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) my name is Connor Dailey
 ======================================================================================================================================
 
 **DevOps Engineer | Computer Science & Religious Studies Graduate**
