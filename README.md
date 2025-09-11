@@ -52,7 +52,7 @@ I'm currently collaborating with [@afahey03](https://github.com/afahey03) and [A
 
 ## 📁 Selected Projects
 
-### 🔹 [AI-Quinas](https://github.com/condailey/portfolio)
+### 🔹 [AI-Quinas]
 An AI-powered research tool for the Summa Theologica  
 _**Stack**: C#, .NET, Blazor, Claude API_
 
