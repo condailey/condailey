@@ -7,7 +7,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 **DevOps Engineer | Computer Science & Religious Studies Graduate**
 
-I'm a recent graduate from the College of the Holy Cross, where I studied both Computer Science and Religious Studies. I’m currently working as a DevOps Engineer at [Ryan-Miranda Partners](https://ryan-miranda.com/), and passionate about blending technical skill with philosophical inquiry to build meaningful tools that serve others.
+I'm a recent graduate from the College of the Holy Cross, where I studied both Computer Science and Religious Studies. I previously worked as a DevOps Engineer at [Ryan-Miranda Partners](https://ryan-miranda.com/), and I am passionate about blending technical skill with philosophical inquiry to build meaningful tools that serve others.
 
 ---
 
