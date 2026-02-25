@@ -6,7 +6,7 @@
 ---
 
 📧 [con.dailey5@gmail.com](mailto:con.dailey5@gmail.com)
-🌐 [Portfolio](https://condailey.vercel.app)
+🌐 [Portfolio](https://condailey.dev)
 🔗 [LinkedIn](https://www.linkedin.com/in/connor-dailey-063748227)
 
 ## Professional Experience
