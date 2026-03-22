@@ -11,7 +11,7 @@
 
 ## Professional Experience
 
-**DevOps Engineer** — Ryan-Miranda Partners | Boston, MA (Remote) | July 2025 – February 2026
+**Software Engineer** — Ryan-Miranda Partners | Boston, MA (Remote) | July 2025 – February 2026
 
 - Managed Jira boards across multiple products, including sprint planning, ticket creation, epic management, and task prioritization for distributed development teams
 - Led daily standups and coordinated work assignments for developers across multiple time zones
