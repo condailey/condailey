@@ -16,7 +16,7 @@ BA in Computer Science & Religious Studies, *Cum Laude*
 
 ## Professional Experience
 
-**DevOps Engineer** — Ryan-Miranda Partners | Boston, MA (Remote) | June 2025 – February 2026
+**Data Engineer** — Ryan-Miranda Partners | Boston, MA (Remote) | June 2025 – February 2026
 
 - Used Python and Amazon Web Services (AWS) including Lambda, S3, RDS, EventBridge, CloudWatch, and SNS to design and build ETL pipelines across multiple clients, ingesting raw data from APIs, transforming it, and loading it into databases for reporting and analysis.
 - Used SQL and PostgreSQL to query, validate, and transform client data, embedding data quality controls to make sure downstream teams and dashboards had clean, accurate data to work with.
